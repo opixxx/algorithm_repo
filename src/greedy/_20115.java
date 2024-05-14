@@ -32,7 +32,7 @@ public class _20115 {
         if (sum == (int) sum) {
             System.out.printf("%d\n", (int) sum);
         } else {
-            System.out.printf("%.1f\n", sum);
+            System.out.print(sum);
         }
 
 
